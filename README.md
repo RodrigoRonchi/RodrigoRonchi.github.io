@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+# Sobre mim
+Nascido em 16 de janeiro de 2003, na cidade de São Paulo, sempre apresentei uma tendência às letras e ciências. Aos 9 anos de idade, escrevia pequenos livros para apresentar aos meus colegas de escola. Formei-me Técnico Químico pela Escola Técnica Estadual Parque Belém, ao mesmo tempo que concluia o ensino médio na Escola Estadual Parque Belém. A vivência integral na rede pública de ensino me despertou uma paixão até então latente: ensinar e auxiliar meus colegas nas disciplinas de exatas. 
+Com o início da pandemia da COVID-19, me deparando e vivenciando constantemente o luto, surgiu a ideia de aproveitar a dor para realizar um sonho antigo: escrever meu livro. Foi assim que iniciei a escrita de Réquiem Pútrido, minha primeira obra, abordando as dores e questionamentos filosóficos que são aflorados ao deparar-nos com a perda. Nele, traduzi todas as incertezas, tristezas e arrependimentos que senti na vasta experiência de viver velórios, acompanhar parentes e amigos em estado terminal, curar a ferida aberta por saber que não fiz tudo que estava ao meu alcance. 
+A escrita de Réquiem Pútrido foi muito mais do que a realização de um sonho: fui capaz de reciclar as dores e tentar transformá-las em algo útil; assim, aos poucos, consegui conviver e aceitar o luto. 
+Atualmente, curso Engenharia Química na Universidade Federal de São João del-Rei (Campus Alto Paraopeba, Ouro Branco, MG). Paralelamente, estudo programação e desenvolvimento de pacotes em linguagem R, sob tutoria e orientação do Prof. Dr. Ben Dêivide de Oliveira Batista. 
 
-You can use the [editor on GitHub](https://github.com/RodrigoRonchi/RodrigoRonchi.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RodrigoRonchi/RodrigoRonchi.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
